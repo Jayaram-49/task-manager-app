@@ -103,11 +103,6 @@ task-manager-app/
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots here after running the app locally.
-
----
 
 ## 📄 License
 
