@@ -1,4 +1,4 @@
-# TaskFlow – Task Manager Web Application
+# TaskManager – Task Manager Web Application
 
 A responsive, full-featured **Task Manager** built with **React**, **JavaScript**, and **Bootstrap 5**.
 
